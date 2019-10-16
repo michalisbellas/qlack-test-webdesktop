@@ -30,3 +30,9 @@ build/
 
 ### Other ###
 qlack-test-web.log
+
+### angular ###
+src/main/web/simpleapp/node
+src/main/web/simpleapp/node_modules
+src/main/web/simpleapp/dist
+
